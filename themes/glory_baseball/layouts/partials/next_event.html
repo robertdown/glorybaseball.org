@@ -1,0 +1,10 @@
+<div class="card card-next-event my-4 p-2">
+    <div class="card-body d-flex justify-content-between flex-column flex-lg-row">
+        <h2 class="card-title"><small>NEXT UP</small><br>{{ .activity -}}</h2>
+        <p class="card-text">
+            {{ .date | time.Format "Monday, January 2, 2006" }}{{- with .end_date -}} - {{- . | time.Format "Monday, January 2, 2006" -}}{{ end }}<br>
+            {{ .time | time.Format ":time_short" }}<br>
+            {{ .location }}
+        </p>
+    </div>
+</div>
