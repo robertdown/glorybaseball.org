@@ -1,0 +1,89 @@
+schedule:
+  - date: 2023-05-13T10:00:00
+    activity: Scrimmage
+    location: The Geneva School 
+    type: scrimmage
+  - date: 2023-05-15T17:00:00
+    activity: Final group tryout
+    location: The Geneva School
+    time: '5:00 pm'
+    type: tryout
+  - date: 2023-05-19T17:00:00
+    activity: First official team day
+    location: The Geneva School
+    type: generic
+  - date: 2023-05-20
+    end_date: 2023-05-21
+    activity: 1st Possible Tournament (TBA)
+    location: POLK/LAKE/BREVARD County
+    type: tournament
+  - date: 2023-05-22T17:45:00
+    activity: Practice
+    location: The Geneva School
+    time: 2023-05-22T17:45:00
+    type: practice
+  - date: 2023-05-26T17:45:00
+    activity: Practice
+    location: The Geneva School
+    type: practice
+  - date: 2023-05-29T17:45:00
+    activity: Memorial Day Workout
+    location: The Geneva School
+    type: practice
+  - date: 2023-06-03
+    end_date: 2023-06-04
+    activity: Possible Tournament (TBA)
+    location: Stars and Stripes
+    type: tournament
+  - date: 2023-06-05T17:45:00
+    activity: Game vs [Winter Park HS or Lake Howell HS]
+    location: The Geneva School
+    type: scrimmage
+  - date: 2023-06-08T17:45:00
+    activity: Game vs [Winter Park HS or Lake Howell HS]
+    location: The Geneva School
+    type: scrimmage
+  - date: 2023-06-10
+    end_date: 2023-06-11
+    activity: Possible Tournament (TBA)
+    location: Marotti Cup (Auburndale)
+    type: tournament
+  - date: 2023-06-12T17:45:00
+    activity: Game vs [Winter Park HS or Lake Howell HS]
+    location: The Geneva School
+    type: scrimmage
+  - date: 2023-06-15T17:45:00
+    activity: Game vs [Winter Park HS or Lake Howell HS]
+    location: The Geneva School
+    type: scrimmage
+  - date: 2023-06-16
+    end_date: 2023-06-18
+    activity: Possible Tournament (TBA)
+    location: Glory Days (NOB)
+    type: scrimmage
+  - date: 2023-06-19T17:45:00
+    activity: Game vs [Winter Park HS or Lake Howell HS]
+    location: The Geneva School
+    type: scrimmage
+  - date: 2023-06-22T17:45:00
+    activity: Game vs [Winter Park HS or Lake Howell HS]
+    location: The Geneva School
+    type: scrimmage
+  - date: 2023-06-26T17:45:00
+    activity: Game vs [Winter Park HS or Lake Howell HS]
+    location: The Geneva School
+    type: scrimmage
+  - date: 2023-06-29T17:45:00
+    activity: Game vs [Winter Park HS or Lake Howell HS]
+    location: The Geneva School
+    type: scrimmage
+  - date: 2023-08-01T10:00:00
+    end_date: 2023-08-03
+    activity: Practice Prep for FInal Tournament
+    location: The Geneva School
+    type: practice
+  - date: 2023-08-04T10:00:00
+    end_date: 2023-08-06
+    activity: Summer Finale Tournament
+    location: The Geneva School
+    type: tournament

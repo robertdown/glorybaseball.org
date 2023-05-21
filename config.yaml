@@ -1,0 +1,26 @@
+baseURL: 'http://example.org/'
+languageCode: 'en-us'
+title: 'Glory Baseball'
+theme: 'glory_baseball'
+params:
+  logoPath: 'images/logo_no_tag.svg'
+menu:
+  main:
+    - name: Schedule
+      url: /schedule
+      weight: 2
+      pre: <i class="bi-calendar3"></i>
+    # - name: Forms
+    #   url: /forms
+    #   weight: 3
+    #   pre: <i class="bi-file-earmark-text"></i>
+    - name: Roster
+      url: /roster
+      weight: 4
+      pre: <i class="bi-people-fill"></i>
+module:
+  mounts:
+    - source: themes/glory_baseball/node_modules/bootstrap/scss
+      target: assets/scss/bootstrap
+    - source: themes/node_modules/bootstrap/dist/js/bootstrap.min.js
+      target: assets/js/bootstrap.min.js
