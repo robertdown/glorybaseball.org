@@ -1,4 +1,4 @@
-baseURL: 'https://glorybaseball.org/'
+baseURL: 'https://www.glorybaseball.org/'
 languageCode: 'en-us'
 title: 'Glory Baseball'
 theme: 'glory_baseball'
