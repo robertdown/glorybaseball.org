@@ -1,7 +1,8 @@
-baseURL: 'http://example.org/'
+baseURL: 'https://glorybaseball.org/'
 languageCode: 'en-us'
 title: 'Glory Baseball'
 theme: 'glory_baseball'
+publishDir: 'docs'
 params:
   logoPath: 'images/logo_no_tag.svg'
 menu:

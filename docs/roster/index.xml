@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glory Baseball</title>
+    <link>https://glorybaseball.org/roster/</link>
+    <description>Recent content on Glory Baseball</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://glorybaseball.org/roster/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
