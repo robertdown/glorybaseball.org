@@ -19,9 +19,9 @@ menu:
       url: /roster
       weight: 4
       pre: <i class="bi-people-fill"></i>
-# module:
-#   mounts:
-#     - source: themes/glory_baseball/node_modules/bootstrap/scss
-#       target: assets/scss/bootstrap
-#     - source: themes/node_modules/bootstrap/dist/js/bootstrap.min.js
-#       target: assets/js/bootstrap.min.js
+module:
+  mounts:
+    - source: themes/glory_baseball/node_modules/bootstrap/scss
+      target: assets/scss/bootstrap
+    - source: themes/node_modules/bootstrap/dist/js/bootstrap.min.js
+      target: assets/js/bootstrap.min.js
