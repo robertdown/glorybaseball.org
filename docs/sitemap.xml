@@ -5,12 +5,12 @@
     <loc>https://www.glorybaseball.org/roster/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>https://www.glorybaseball.org/</loc>
+  </url><url>
     <loc>https://www.glorybaseball.org/categories/</loc>
   </url><url>
     <loc>https://www.glorybaseball.org/schedule/</loc>
   </url><url>
     <loc>https://www.glorybaseball.org/tags/</loc>
-  </url><url>
-    <loc>https://www.glorybaseball.org/</loc>
   </url>
 </urlset>
