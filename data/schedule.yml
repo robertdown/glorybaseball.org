@@ -26,14 +26,20 @@ schedule:
     activity: Practice
     location: The Geneva School
     type: practice
-  - date: 2023-05-29T17:45:00
+  - date: 2023-05-29T17:00:00
     activity: Memorial Day Workout
     location: The Geneva School
     type: practice
+  - date: 2023-05-30T17:30:00
+    activity: Game FIVES 14U
+    location: The Geneva School
+  - date: 2023-06-01T17:45:00
+    activity: Game Max
+    location: The Geneva School
   - date: 2023-06-03
     end_date: 2023-06-04
-    activity: Possible Tournament (TBA)
-    location: Stars and Stripes
+    activity: Make up day (If needed)
+    location: The Geneva School
     type: tournament
   - date: 2023-06-05T17:45:00
     activity: Game vs [Winter Park HS or Lake Howell HS]

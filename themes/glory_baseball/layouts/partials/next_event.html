@@ -3,7 +3,7 @@
         <h2 class="card-title"><small>NEXT UP</small><br>{{ .activity -}}</h2>
         <p class="card-text">
             {{ .date | time.Format "Monday, January 2, 2006" }}{{- with .end_date -}} - {{- . | time.Format "Monday, January 2, 2006" -}}{{ end }}<br>
-            {{ .time | time.Format ":time_short" }}<br>
+            {{ .date | time.Format ":time_short" }}<br>
             {{ .location }}
         </p>
     </div>

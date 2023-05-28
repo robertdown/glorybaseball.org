@@ -14,7 +14,8 @@
                     </thead>
                     <tbody>
                         {{ range $.Site.Data.schedule.schedule }}
-                        <tr>
+                        {{ $pastGame := cond (lt .date (now.Format "2006-01-02")) "text-black-50" ""}}
+                        <tr class="{{ $pastGame }}">
                             <td>
                                 {{ $time := cond (eq (.date | time.Format ":time_short") "0:00 am") "TBA" (.date | time.Format ":time_short") }}
                                 {{ .date | time.Format ":date_short" }}
